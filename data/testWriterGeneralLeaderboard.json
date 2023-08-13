@@ -1,0 +1,11 @@
+{
+    "Easy": [],
+    "Medium": [{
+        "Score": 50,
+        "Name": "Jack"
+    }],
+    "Hard": [{
+        "Score": 100,
+        "Name": "Mike"
+    }]
+}

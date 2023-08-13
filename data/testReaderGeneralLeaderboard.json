@@ -1,0 +1,24 @@
+{
+    "Easy": [
+        {
+            "Score": 100,
+            "Name": "default"
+        },
+        {
+            "Score": 20,
+            "Name": "David"
+        }
+    ],
+    "Medium": [
+        {
+            "Score": 100,
+            "Name": "default"
+        }
+    ],
+    "Hard": [
+        {
+            "Score": 100,
+            "Name": "default"
+        }
+    ]
+}
